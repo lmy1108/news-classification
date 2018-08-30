@@ -1,2 +1,3 @@
 # news-classification
-![导图](https://github.com/lmy1108/emotion-recognition/blob/master/image/1.png)
+## Final accuracy and confusion matrix
+![导图](https://github.com/lmy1108/news-classification/blob/master/images/1.png)
